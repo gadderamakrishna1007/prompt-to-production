@@ -80,16 +80,23 @@ If Git is giving you too much trouble:
 ## 🤖 AI-Assisted Coding & IDEs
 
 ### Which IDE should I use?
-We recommend **VS Code** (Visual Studio Code) or **Cursor**.
+We recommend **VS Code**, **Cursor**, **Antigravity**, or **Trae**.
 
 ### Which ones are free for AI coding?
-1. **VS Code + Codeium:** VS Code is free, and [Codeium](https://codeium.com/) offers a powerful **Free Forever** tier for individuals.
-2. **Cursor:** An AI-native IDE (fork of VS Code) that is built for AI coding. It has a **Free** tier with limited AI requests per month.
-3. **VS Code + Tabnine:** [Tabnine](https://www.tabnine.com/) has a free basic tier for code completions.
-4. **GitHub Copilot:** While usually a paid service ($10/mo), it is **FREE** for verified students, teachers, and maintainers of popular open-source projects.
+1. **Trae:** A powerful, free-to-use adaptive AI IDE (built by ByteDance) that is designed for "vibe coding" and agentic workflows.
+2. **Antigravity:** A modern, AI-native IDE that is gaining popularity for its speed and free accessibility.
+3. **VS Code + Codeium:** VS Code is free, and [Codeium](https://codeium.com/) offers a powerful **Free Forever** tier for individuals.
+4. **Cursor:** An AI-native IDE (fork of VS Code) built for AI coding. It has a **Free** tier with limited AI requests per month.
+5. **GitHub Copilot:** Usually a paid service ($10/mo), but **FREE** for verified students, teachers, and maintainers of popular open-source projects.
+
+### 💻 CLI-based AI Coding
+If you prefer working entirely in the terminal, check out:
+1. **Aider:** A popular CLI tool that lets you edit code in your terminal using AI. (Requires an API key).
+2. **Mentat:** An open-source AI coding assistant that lives in your terminal and can understand your entire codebase.
+3. **Open Interpreter:** Allows the AI to run code locally in your terminal to perform tasks (highly recommended for advanced users).
 
 ### Can I use these in WSL?
-Yes! Both VS Code and Cursor work perfectly with WSL. Just run `code .` or `cursor .` from your WSL terminal to open your project.
+Yes! All of these tools (IDEs and CLI tools) work perfectly with WSL. Just run them from your WSL terminal.
 
 ---
 
